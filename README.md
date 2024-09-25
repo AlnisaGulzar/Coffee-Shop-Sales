@@ -1,5 +1,6 @@
-# Coffee-Shop-Sales
-Data Analyst Portfolio Project  file:///C:/Users/alnis/AppData/Local/Temp/Power%20BI%20Desktop/print-job-657ddbf2-d2fa-4746-9e00-91d6290eb945/coffee%20shop%20sales.pd
+# Coffee-Shop-Sales (Power BI)
+Data Analyst Portfolio Project
+file:///C:/Users/alnis/AppData/Local/Temp/Power%20BI%20Desktop/print-job-657ddbf2-d2fa-4746-9e00-91d6290eb945/coffee%20shop%20sales.pd
 PROBLEM STATEMENT
 
 KPI'S REQUIREMENTS
